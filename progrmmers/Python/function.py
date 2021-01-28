@@ -23,3 +23,7 @@ print(a)
 # comprehension
 a = [x for x in range(0,5)]
 print(a)
+
+#문자열 한글자씩 끊기
+number = "1924"
+print(list(number))
